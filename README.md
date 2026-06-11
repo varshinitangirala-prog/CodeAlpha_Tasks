@@ -41,6 +41,8 @@ UI/UX design principles
 User interaction handling
 Building complete mobile applications from scratch
 
+https://github.com/user-attachments/assets/37e75cb6-cd4a-4075-8367-4e95c81d1e15
+
 Varshini Tangirala
 App Development Intern @CodeAlpha
 LinkedIn:https://www.linkedin.com/in/varshini-tangirala-921808375?utm_source=share_via&utm_content=profile&utm_medium=member_android
