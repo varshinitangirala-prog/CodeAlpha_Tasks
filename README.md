@@ -43,6 +43,52 @@ Building complete mobile applications from scratch
 
 https://github.com/user-attachments/assets/37e75cb6-cd4a-4075-8367-4e95c81d1e15
 
+TASK 2:QUOTE GENERATOR
+About
+Quote Generator is an interactive application developed to provide users with an easy and engaging way to explore, save,
+and manage inspirational quotes. The app displays meaningful quotes, allows users to add new quotes with author information,
+and provides a simple interface for managing favorite quotes, creating a smooth and user-friendly experience.
+
+Features
+Displays inspirational and motivational quotes
+Add new quotes with author details
+Save and manage favorite quotes
+Interactive user interface
+Clean and responsive design
+Quote collection management
+Easy navigation and user interaction
+
+Technologies Used
+Flutter – Cross-platform mobile application development
+Dart – Application logic and functionality
+Material Design – Modern and responsive UI components
+VS Code – Development environment
+
+Steps to Run the Project:
+Clone the repository
+Navigate to the project directory
+Install required dependencies
+Run the application
+
+Usage:
+Launch the application
+View the displayed inspirational quotes
+Add new quotes by entering quote text and author name
+Save your favorite quotes for future access
+Browse through the quote collection
+Interact with the application to manage quotes easily
+Learning Outcomes:
+
+Through this project, I learned:
+Mobile application development using Flutter
+Dart programming fundamentals
+Designing responsive and user-friendly interfaces
+Handling user inputs and interactions
+Implementing application functionality and navigation
+Building complete mobile applications from scratch
+
+https://github.com/user-attachments/assets/ff8f8aa5-2a6d-4cd9-a7a2-1c673e733bd3
+
 Varshini Tangirala
 App Development Intern @CodeAlpha
 LinkedIn:https://www.linkedin.com/in/varshini-tangirala-921808375?utm_source=share_via&utm_content=profile&utm_medium=member_android
