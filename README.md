@@ -126,8 +126,8 @@ Explore vocabulary, phrases, grammar, and numbers sections
 Practice pronunciation using available learning features
 Take quizzes to test language knowledge
 Track learning progress and improve skills through continuous practice
-Learning Outcomes:
 
+Learning Outcomes:
 Through this project, I learned:
 Mobile application development using Flutter
 Dart programming fundamentals
