@@ -1,4 +1,6 @@
- Quiz Spark is an interactive mobile quiz application developed to provide users with an engaging and enjoyable way to test their knowledge.
+
+https://github.com/user-attachments/assets/04a63f91-b559-46dc-971c-0157cb287150
+  Quiz Spark is an interactive mobile quiz application developed to provide users with an engaging and enjoyable way to test their knowledge.
  The app presents multiple-choice questions, tracks user scores, and displays results instantly, creating a smooth and user-friendly learning
  experience.
 
@@ -77,8 +79,8 @@ Add new quotes by entering quote text and author name
 Save your favorite quotes for future access
 Browse through the quote collection
 Interact with the application to manage quotes easily
-Learning Outcomes:
 
+Learning Outcomes:
 Through this project, I learned:
 Mobile application development using Flutter
 Dart programming fundamentals
@@ -88,6 +90,54 @@ Implementing application functionality and navigation
 Building complete mobile applications from scratch
 
 https://github.com/user-attachments/assets/ff8f8aa5-2a6d-4cd9-a7a2-1c673e733bd3
+
+TASK3:LANGUAGE LEARNING APP
+
+About
+
+Linguara – Language Learning Application is an interactive learning application developed to help users learn new languages in an easy and engaging way. The app provides language lessons through vocabulary cards, phrases, grammar, pronunciation practice, and quick quizzes. It offers a simple and user-friendly interface that helps users improve their language skills through interactive learning activities.
+
+Features
+Interactive language learning lessons
+Vocabulary and phrase-based flashcards
+Grammar and numbers learning sections
+Pronunciation practice with audio support
+Multiple-choice language quizzes
+Instant quiz feedback and score tracking
+Progress monitoring throughout learning
+Clean and responsive user interface
+Easy navigation between learning modules
+
+Technologies Used
+Flutter – Cross-platform mobile application development
+Dart – Application logic and functionality
+Material Design – Modern and responsive UI components
+VS Code – Development environment
+Steps to Run the Project:
+Clone the repository
+Navigate to the project directory
+Install required dependencies
+Run the application
+
+Usage:
+Launch the application
+Select the preferred language to learn
+Explore vocabulary, phrases, grammar, and numbers sections
+Practice pronunciation using available learning features
+Take quizzes to test language knowledge
+Track learning progress and improve skills through continuous practice
+Learning Outcomes:
+
+Through this project, I learned:
+Mobile application development using Flutter
+Dart programming fundamentals
+Designing interactive learning interfaces
+Implementing navigation and application flow
+Handling user interactions and quiz functionality
+Creating responsive UI designs
+Building complete educational applications from scratch
+
+https://github.com/user-attachments/assets/11666c5e-7c37-4dc6-8b03-020610cb40f6
 
 Varshini Tangirala
 App Development Intern @CodeAlpha
